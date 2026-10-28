@@ -26,7 +26,7 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/p
 #EXTINF:-1 tvg-name="AlphaTV"tvg-id="AlphaTV.gr"tvg-logo="https://i.imgur.com/bAVGX0l.png"tvg-chno="26"group-title="Greece",AlphaTV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Skai TV"tvg-id="SkaiTV.gr"tvg-logo="https://i.imgur.com/TSg7B8X.png"tvg-chno="27"group-title="Greece",Skai TV
-http://skai-live.siliconweb.com/media/cambria4/index.m3u8
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-name="ANT1"tvg-id="ANT1.gr"tvg-logo="https://i.imgur.com/xDdVa9U.png"tvg-chno="23"group-title="Greece",ANT1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 tvg-name="MAK TV"tvg-id="MakTV.gr"tvg-logo="https://i.imgur.com/90iDHbQ.png"tvg-chno="29"group-title="Greece",MAK TV
