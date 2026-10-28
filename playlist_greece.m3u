@@ -29,7 +29,7 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-name="ANT1" tvg-id="ANT1.gr" tvg-logo="https://i.imgur.com/xDdVa9U.png" tvg-chno="23" group-title="Greece",ANT1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
-#EXTINF:-1 tvg-name="MAK TV" tvg-id="MakTV.gr" tvg-logo="https://i.imgur.com/90iDHbQ.png" tvg-chno="29" group-title="Greece",MAK TV
+#EXTINF:-1 tvg-name="MAK TV" tvg-id="MakTV.gr" tvg-logo="https://i.imgur.com/90iDHbQ.png" tvg-chno="29" group-title="Greece",MAK  
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 tvg-name="Star" tvg-id="StarChannel.gr" tvg-logo="https://i.imgur.com/Hp0stVQ.png" tvg-chno="24" group-title="Greece",Star
 https://livestar.siliconweb.com/starvod/star4/star4.m3u8
